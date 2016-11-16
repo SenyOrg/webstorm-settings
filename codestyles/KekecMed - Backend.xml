@@ -25,6 +25,7 @@
   </DBN-SQL>
   <JSCodeStyleSettings>
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="OBJECT_LITERAL_WRAP" value="2" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
