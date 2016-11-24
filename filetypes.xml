@@ -12,6 +12,7 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="build-and-deploy" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
